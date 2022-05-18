@@ -1,3 +1,4 @@
+<h3 align="center"Hello~ Mirai here</h3>
 <h3 align="center">A student from Taiwan😊</h3>
 
 <h3 align="left">Connect with me:</h3>
