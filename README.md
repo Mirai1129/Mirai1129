@@ -38,5 +38,5 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+  [![Mirai1129's GitHub stats](https://github-readme-stats.vercel.app/api?username=mirai1129&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </details>
