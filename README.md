@@ -38,5 +38,5 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mirai1129&theme=toykonight&show_icons=true&locale=en" alt="mirai1129" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mirai1129&theme=toykonight" alt="mirai1129" /></p>
 </details>
