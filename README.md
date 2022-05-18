@@ -3,8 +3,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/mirai1129" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mirai1129" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/mirai1129" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mirai1129" height="30" width="40" /></a>
+<a href="https://instagram.com/eric20031129" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eric20031129" height="30" width="40" /></a>
 <a href="https://medium.com/@mirai1129" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mirai1129" height="30" width="40" /></a>
+<a href="https://discord.gg/132" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="132" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
