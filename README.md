@@ -38,6 +38,6 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Mirai1129's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Mirai1129&show_icons=true&theme=tokyonight" />
+  <img align="left"src="https://github-readme-stats.vercel.app/api?username=mirai1129&show_icons=true&locale=en&theme=tokyonight" alt="mirai1129" />
 
 </details>
