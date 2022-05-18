@@ -33,9 +33,9 @@
 
 ---
 
-[!Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mirai1129&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mirai1129&layout=compact&theme=tokyonight)
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  [!Mirai1129's GitHub stats](https://github-readme-stats.vercel.app/api?username=mirai1129&theme=tokyonight)
+  ![Mirai1129's GitHub stats](https://github-readme-stats.vercel.app/api?username=mirai1129&theme=tokyonight)
 </details>
