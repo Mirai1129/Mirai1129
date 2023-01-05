@@ -3,7 +3,7 @@
 ## I'm a Student!!
 
 - 📖 I’m currently learning everything ❤️
-- 🥅 2022 Goals: Learn more about web3 and Python
+- 🥅 2023 Goals: Learn more about web3 ,Python and C++
 - ⚡ Fun fact: I love to breaking and play drums
 
 ### Connect with me:
