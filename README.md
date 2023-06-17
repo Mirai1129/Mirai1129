@@ -4,7 +4,7 @@
 
 - 📖 I’m currently learning everything ❤️
 - 🥅 2023 Goals: Learn more about web3, Kotlin
-- ⚡ Fun fact: I love to breaking and play drums
+- 🏍️ I love ride the scooter
 
 ### Connect with me:
 
