@@ -4,13 +4,14 @@
 
 
 - 📖 I’m currently learning everything ❤️
+  
 - 🥅 2023 Goals: Learn more about web3, Kotlin
+  
 - 🏍️ I love ride the scooter
 
 
-
-<h3 align="center"> Languages and Tools:</h3>
-<p align="center">
+<h3 align="left"> Languages and Tools:</h3>
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=kotlin,c,python,html,css,js" /><br>
     <img src="https://skillicons.dev/icons?i=idea,vscode,discord,github,git"
