@@ -1,24 +1,27 @@
-# Hi there, I'm Mirai 👋 
+<h1 align="center"> Hi there, I'm Mirai 👋 </h1>
 
-## I'm a Student!!
+<h2 align="center"> I'm a Student!!</h2>
+
 
 - 📖 I’m currently learning everything ❤️
 - 🥅 2023 Goals: Learn more about web3, Kotlin
 - 🏍️ I love ride the scooter
 
-### Connect with me:
 
-<p align="left">
-  
-[![Discord Presence](https://lanyard.cnrad.dev/api/517690929562255360?borderRadius=30px&bg=141130&idleMessage=Hi%20I'm%20Mirai&hideDiscrim=true)](https://discord.com/users/517690929562255360)
 
+<h3 align="center"> Languages and Tools:</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kotlin,c,python,html,css,js" /><br>
+    <img src="https://skillicons.dev/icons?i=idea,vscode,discord,github,git"
+  </a>
 </p>
 
-### Languages and Tools:
-<p align="left"> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<p align="center">
+  
+<h3 align="left">Connect with me:</h3>
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/517690929562255360?borderRadius=30px&bg=141130&idleMessage=Hi%20I'm%20Mirai&hideDiscrim=true)](https://discord.com/users/517690929562255360)
 </p>
 
 <br />
