@@ -1,37 +1,42 @@
-<h1 align="center"> Hi there, I'm Mirai 👋 </h1>
+<div align="center">
+  <h1> Hi there, I'm Mirai 👋 </h1>
+  <h2> I'm a Student!!</h2>
+</div>
 
-<h2 align="center"> I'm a Student!!</h2>
+<img src="https://komarev.com/ghpvc/?username=mirai1129&label=Profile%20views&color=3fabee&style=flat-square" alt="views">
 
+<div align="left">
+  <h3> About Me </h3>
+  <ul>
+    <li>📖 I’m currently learning everything ❤️</li>
+    <li>🥅 2023 Goals: Learn more about web3, Kotlin</li>
+    <li>🏍️ I love riding the scooter</li>
+  </ul>
+</div>
 
-- 📖 I’m currently learning everything ❤️
-  
-- 🥅 2023 Goals: Learn more about web3, Kotlin
-  
-- 🏍️ I love ride the scooter
+<br>
 
-
-<h3 align="left"> Languages and Tools:</h3>
-<p align="left">
+<div align="left">
+  <h3> Languages and Tools </h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,c,python,html,css,js" /><br>
-    <img src="https://skillicons.dev/icons?i=idea,vscode,discord,github,git"
+    <img src="https://skillicons.dev/icons?i=kotlin,c,python,html,css,js">
+    <img src="https://skillicons.dev/icons?i=idea,vscode,discord,github,git">
   </a>
-</p>
+</div>
 
-<p align="center">
-  
-<h3 align="left">Connect with me:</h3>
+<br>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/517690929562255360?borderRadius=30px&bg=141130&idleMessage=Hi%20I'm%20Mirai&hideDiscrim=true)](https://discord.com/users/517690929562255360)
-</p>
+<div align="left">
+  <h3> GitHub Statistics </h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=mirai1129&theme=tokyonight" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirai1129&layout=compact&theme=tokyonight" alt="Top Languages">
+</div>
 
-<br />
+<br>
 
----
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mirai1129&layout=compact&theme=tokyonight)
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  ![Mirai1129's GitHub stats](https://github-readme-stats.vercel.app/api?username=mirai1129&theme=tokyonight)
-</details>
+<div align="left">
+  <h3> Connect with Me </h3>
+  <a href="https://discord.com/users/517690929562255360">
+    <img src="https://lanyard.cnrad.dev/api/517690929562255360?borderRadius=30px&bg=141130&idleMessage=Hi%20I'm%20Mirai&hideDiscrim=true" alt="Discord Presence">
+  </a>
+</div>
