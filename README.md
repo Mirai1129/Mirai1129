@@ -14,8 +14,6 @@
   </ul>
 </div>
 
-<br>
-
 <div align="left">
   <h3> Languages and Tools </h3>
   <a href="https://skillicons.dev">
