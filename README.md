@@ -9,16 +9,19 @@
   <h3> About Me </h3>
   <ul>
     <li>📖 I’m currently learning everything ❤️</li>
-    <li>🥅 2024 Goals: Make a big project?</li>
+    <li>🥅 2024 Goals: Learn Docker and Vue.</li>
     <li>🏍️ I love riding the scooter</li>
   </ul>
 </div>
 
 <div align="left">
-  <h3> Languages and Tools </h3>
+  <h3> Languages </h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,c,python,html,css,js">
-    <img src="https://skillicons.dev/icons?i=idea,vscode,discord,github,git">
+    <img src="https://skillicons.dev/icons?i=kotlin,java,python,c,html,css,js">
+  </a>
+  <h3> Tools </h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=idea,pycharm,vscode,discord,github,git">
   </a>
 </div>
 
