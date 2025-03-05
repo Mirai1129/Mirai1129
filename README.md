@@ -29,16 +29,6 @@
     <img src="https://skillicons.dev/icons?i=idea,pycharm,vscode,discord">
   </a>
 </div>
-
-<br>
-
-<div align="left">
-  <h3> GitHub Statistics </h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=mirai1129&theme=tokyonight" alt="GitHub Stats">
-</div>
-
-<br>
-
 <div align="left">
   <h3> Connect with Me </h3>
   <a href="https://discord.com/users/517690929562255360">
